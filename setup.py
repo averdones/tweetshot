@@ -17,7 +17,7 @@ def get_requirements():
 
 setuptools.setup(
     name="tweetshot",
-    version="0.1.0",
+    version="0.0.1",
     author="Antonio Verdone",
     author_email="averdones@gmail.com",
     description="Take a tweet screenshot",
